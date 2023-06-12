@@ -1,0 +1,53 @@
+*{margin: 0%;}
+h5{ background-color: goldenrod;
+
+    text-align: left; display: inline; color: beige;
+}
+ 
+.why{
+    background-color: rgb(48, 9, 9);
+    width: 100%;
+}
+.why .are{
+    text-align: right;
+}
+.why .are .you{
+    color: whitesmoke;
+}
+
+h2{ color: chartreuse;}
+.er{ text-decoration: underline ;
+
+}
+.re {font-size: 1rem ; 
+}
+.ty{text-align: center; background-color:tomato; text-decoration: solid; color: chartreuse; border-start-end-radius: 50px solid brown;
+font-size: 2rem;}
+
+header ul .ti:hover{
+    background-color: blue;
+}
+
+header ul .ti:active{
+    opacity: 0.5%; 
+}
+
+
+li{display: inline; text-align: center; color: rgb(252, 7, 7);
+
+}
+li a{ text-align: center; color: rgb(247, 8, 8); padding-bottom: 5rem;
+
+}
+li a :hover{
+    background-color: crimson; padding-bottom: 2rem;
+}
+
+.foot{
+    text-align: start;
+    background-color: seagreen; margin-bottom: 2rem 2rem; border: 2rem ;
+}
+
+body{
+    background: goldenrod;
+}
